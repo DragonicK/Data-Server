@@ -1,0 +1,6 @@
+2018/12/06 9:57:04: Request account data: akaruz
+2018/12/06 9:57:04: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/06 9:57:04: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/06 9:59:52: Request account data: akaruz
+2018/12/06 9:59:52: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/06 9:59:52: Account Id: 1 Character Id: 14 Name: DragonicK 

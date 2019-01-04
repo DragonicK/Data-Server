@@ -1,0 +1,34 @@
+2018/12/13 4:51:43: Database is connected successfully
+2018/12/13 4:51:43: 5 accounts loaded
+2018/12/13 6:21:29: 127.0.0.1:57142 is connected
+2018/12/13 6:21:49: 127.0.0.1:57142 is disconnected
+2018/12/13 6:23:56: 127.0.0.1:57310 is connected
+2018/12/13 6:24:06: 127.0.0.1:57310 is disconnected
+2018/12/13 6:38:18: 127.0.0.1:58237 is connected
+2018/12/13 6:44:28: 127.0.0.1:58237 is disconnected
+2018/12/13 6:55:43: 127.0.0.1:59093 is connected
+2018/12/13 6:57:53: 127.0.0.1:59093 is disconnected
+2018/12/13 6:58:03: 127.0.0.1:59165 is connected
+2018/12/13 7:00:33: 127.0.0.1:59165 is disconnected
+2018/12/13 7:04:08: 127.0.0.1:59444 is connected
+2018/12/13 7:08:28: 127.0.0.1:59444 is disconnected
+2018/12/13 7:08:36: 127.0.0.1:59569 is connected
+2018/12/13 7:16:16: 127.0.0.1:59569 is disconnected
+2018/12/13 15:53:23: Database is connected successfully
+2018/12/13 15:53:23: 5 accounts loaded
+2018/12/13 21:08:40: Database is not connected
+2018/12/13 21:08:40: Error Number: 54
+2018/12/13 21:08:40: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/13 21:08:41: Failed to load accounts
+2018/12/13 21:08:41: Error Number: 54
+2018/12/13 21:08:41: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/13 21:15:10: Database is connected successfully
+2018/12/13 21:15:10: 5 accounts loaded
+2018/12/13 21:27:47: 127.0.0.1:61252 is connected
+2018/12/13 21:30:17: 127.0.0.1:61252 is disconnected
+2018/12/13 21:42:53: 127.0.0.1:62178 is connected
+2018/12/13 22:41:13: 127.0.0.1:62178 is disconnected
+2018/12/13 23:09:02: 127.0.0.1:64590 is connected
+2018/12/13 23:40:32: 127.0.0.1:64590 is disconnected
+2018/12/13 23:48:53: 127.0.0.1:65385 is connected
+2018/12/13 23:52:43: 127.0.0.1:65385 is disconnected

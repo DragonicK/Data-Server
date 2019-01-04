@@ -1,0 +1,6 @@
+2018/10/29 21:41:12: Database is connected successfully
+2018/10/29 21:41:12: 5 accounts loaded
+2018/10/29 21:42:33: 127.0.0.1:63140 is connected
+2018/10/29 22:23:19: Database is connected successfully
+2018/10/29 22:23:19: 5 accounts loaded
+2018/10/29 22:23:34: 127.0.0.1:52042 is connected

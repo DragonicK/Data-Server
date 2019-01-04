@@ -1,0 +1,53 @@
+2018/12/30 18:40:09: Request account data: akaruz
+2018/12/30 18:40:09: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:40:09: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:40:10: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:45:39: Received Character Id: 14 Name: DragonicK
+2018/12/30 18:45:39: Received Achievement Character Id: 14
+2018/12/30 18:45:39: Received Craft Character Id: 14
+2018/12/30 18:45:39: Received Currency Character Id: 14
+2018/12/30 18:45:39: Received Equipment Character Id: 14
+2018/12/30 18:45:39: Received Hotbar Character Id: 14
+2018/12/30 18:45:39: Received Inventory Character Id: 14
+2018/12/30 18:45:39: Received Spell Character Id: 14
+2018/12/30 18:45:39: Received Spell Buff Character Id: 14
+2018/12/30 18:45:39: Received Title Character Id: 14
+2018/12/30 18:45:39: Received Variable Character Id: 14
+2018/12/30 18:45:39: Received Warehouse Character Id: 14
+2018/12/30 18:45:41: Received Character Id: 14 Name: DragonicK
+2018/12/30 18:45:41: Received Achievement Character Id: 14
+2018/12/30 18:45:41: Received Craft Character Id: 14
+2018/12/30 18:45:41: Received Currency Character Id: 14
+2018/12/30 18:45:41: Received Equipment Character Id: 14
+2018/12/30 18:45:41: Received Hotbar Character Id: 14
+2018/12/30 18:45:41: Received Inventory Character Id: 14
+2018/12/30 18:45:41: Received Spell Character Id: 14
+2018/12/30 18:45:41: Received Spell Buff Character Id: 14
+2018/12/30 18:45:41: Received Title Character Id: 14
+2018/12/30 18:45:41: Received Variable Character Id: 14
+2018/12/30 18:45:41: Received Warehouse Character Id: 14
+2018/12/30 18:45:42: Character Name DragonicK Character Id 14 is now saved
+2018/12/30 18:45:42: Request account data: akaruz
+2018/12/30 18:45:42: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:45:42: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:45:43: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:48:23: Request account data: akaruz
+2018/12/30 18:48:23: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:48:23: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:48:24: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:51:14: Request account data: akaruz
+2018/12/30 18:51:14: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:51:14: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:51:15: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:53:33: Request account data: akaruz
+2018/12/30 18:53:33: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:53:33: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:53:34: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:58:35: Request account data: akaruz
+2018/12/30 18:58:35: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:58:35: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:58:36: Request Data Character Id 14 Character Name DragonicK 
+2018/12/30 18:59:45: Request account data: akaruz
+2018/12/30 18:59:45: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/30 18:59:45: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/30 18:59:46: Request Data Character Id 14 Character Name DragonicK 

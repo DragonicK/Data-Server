@@ -1,0 +1,14 @@
+2018/12/16 12:12:48: Database is not connected
+2018/12/16 12:12:49: Error Number: 54
+2018/12/16 12:12:49: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/16 12:12:50: Failed to load accounts
+2018/12/16 12:12:50: Error Number: 54
+2018/12/16 12:12:50: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/16 22:06:24: Database is not connected
+2018/12/16 22:06:24: Error Number: 54
+2018/12/16 22:06:24: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/16 22:06:25: Failed to load accounts
+2018/12/16 22:06:25: Error Number: 54
+2018/12/16 22:06:25: Error Message: Unable to connect to any of the specified MySQL hosts.
+2018/12/16 22:06:56: Database is connected successfully
+2018/12/16 22:06:56: 5 accounts loaded

@@ -1,0 +1,2 @@
+2018/12/11 23:19:46: Database is connected successfully
+2018/12/11 23:19:47: 5 accounts loaded

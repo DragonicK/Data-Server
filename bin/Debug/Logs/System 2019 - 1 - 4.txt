@@ -1,0 +1,36 @@
+2019/01/04 17:57:19: Database is connected successfully
+2019/01/04 17:57:53: Database is connected successfully
+2019/01/04 17:58:13: Database is connected successfully
+2019/01/04 17:58:19: 127.0.0.1:51611 Key 4n5f1Sgju3BPVVg is connected
+2019/01/04 18:22:27: Database is connected successfully
+2019/01/04 18:22:36: 127.0.0.1:53633 Key JyiWLixU8Go6BKn is connected
+2019/01/04 18:23:06: Send Data Error: Class Connection
+2019/01/04 18:23:06: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:23:06: 127.0.0.1:53633 Key JyiWLixU8Go6BKn is disconnected
+2019/01/04 18:25:06: 127.0.0.1:53813 Key q2mVuoebKnEBePV is connected
+2019/01/04 18:27:09: Database is connected successfully
+2019/01/04 18:27:20: 127.0.0.1:53997 Key iwnM3cSFfHBbF5Q is connected
+2019/01/04 18:30:50: Send Data Error: Class SpPing
+2019/01/04 18:30:50: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:30:50: 127.0.0.1:53997 Key iwnM3cSFfHBbF5Q is disconnected
+2019/01/04 18:31:01: 127.0.0.1:54777 Key JvlfscbaQp4tjjw is connected
+2019/01/04 18:33:38: Database is connected successfully
+2019/01/04 18:33:46: 127.0.0.1:55093 Key gkccxxVZQ14uRZn is connected
+2019/01/04 18:36:16: Send Data Error: Class SpPing
+2019/01/04 18:36:16: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:36:16: 127.0.0.1:55093 Key gkccxxVZQ14uRZn is disconnected
+2019/01/04 18:36:40: 127.0.0.1:55297 Key lYFcHfJ1xqm2GqE is connected
+2019/01/04 18:37:37: 127.0.0.1:55365 Key wrrsbeagYVUWeee is connected
+2019/01/04 18:38:52: Send Data Error: Class SpPing
+2019/01/04 18:38:52: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:38:52: 127.0.0.1:55365 Key wrrsbeagYVUWeee is disconnected
+2019/01/04 18:48:47: 127.0.0.1:56151 Key TglHhIFlhBxHjro is connected
+2019/01/04 18:49:53: Database is connected successfully
+2019/01/04 18:49:53: 127.0.0.1:56251 Key RqGzgOWKLmFNebL is connected
+2019/01/04 18:50:53: Send Data Error: Class SpPing
+2019/01/04 18:50:53: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:50:53: 127.0.0.1:56251 Key RqGzgOWKLmFNebL is disconnected
+2019/01/04 18:52:39: 127.0.0.1:56505 Key qGhF4sjeugZRjtP is connected
+2019/01/04 18:53:09: Send Data Error: Class SpPing
+2019/01/04 18:53:09: Message: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+2019/01/04 18:53:09: 127.0.0.1:56505 Key qGhF4sjeugZRjtP is disconnected

@@ -1,0 +1,377 @@
+2018/12/13 6:38:37: Request account data: akaruz
+2018/12/13 6:38:37: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:38:37: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:38:38: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:38:52: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:38:53: Received Achievement Character Id: 14
+2018/12/13 6:38:53: Received Craft Character Id: 14
+2018/12/13 6:38:53: Received Currency Character Id: 14
+2018/12/13 6:38:53: Received Equipment Character Id: 14
+2018/12/13 6:38:53: Received Hotbar Character Id: 14
+2018/12/13 6:38:53: Received Inventory Character Id: 14
+2018/12/13 6:38:53: Received Spell Character Id: 14
+2018/12/13 6:38:53: Received Spell Buff Character Id: 14
+2018/12/13 6:38:53: Received Title Character Id: 14
+2018/12/13 6:38:53: Received Variable Character Id: 14
+2018/12/13 6:38:53: Received Warehouse Character Id: 14
+2018/12/13 6:38:53: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 6:39:35: Request account data: akaruz
+2018/12/13 6:39:35: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:39:35: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:39:36: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:39:58: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:39:58: Received Achievement Character Id: 14
+2018/12/13 6:39:58: Received Craft Character Id: 14
+2018/12/13 6:39:58: Received Currency Character Id: 14
+2018/12/13 6:39:58: Received Equipment Character Id: 14
+2018/12/13 6:39:58: Received Hotbar Character Id: 14
+2018/12/13 6:39:58: Received Inventory Character Id: 14
+2018/12/13 6:39:58: Received Spell Character Id: 14
+2018/12/13 6:39:58: Received Spell Buff Character Id: 14
+2018/12/13 6:39:58: Received Title Character Id: 14
+2018/12/13 6:39:58: Received Variable Character Id: 14
+2018/12/13 6:39:58: Received Warehouse Character Id: 14
+2018/12/13 6:39:59: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 6:40:07: Request account data: akaruz
+2018/12/13 6:40:07: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:40:07: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:40:08: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:40:27: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:40:27: Received Achievement Character Id: 14
+2018/12/13 6:40:27: Received Craft Character Id: 14
+2018/12/13 6:40:27: Received Currency Character Id: 14
+2018/12/13 6:40:27: Received Equipment Character Id: 14
+2018/12/13 6:40:27: Received Hotbar Character Id: 14
+2018/12/13 6:40:27: Received Inventory Character Id: 14
+2018/12/13 6:40:27: Received Spell Character Id: 14
+2018/12/13 6:40:27: Received Spell Buff Character Id: 14
+2018/12/13 6:40:27: Received Title Character Id: 14
+2018/12/13 6:40:27: Received Variable Character Id: 14
+2018/12/13 6:40:27: Received Warehouse Character Id: 14
+2018/12/13 6:40:27: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 6:41:28: Request account data: akaruz
+2018/12/13 6:41:28: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:41:28: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:41:29: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:41:56: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:41:56: Received Achievement Character Id: 14
+2018/12/13 6:41:56: Received Craft Character Id: 14
+2018/12/13 6:41:56: Received Currency Character Id: 14
+2018/12/13 6:41:56: Received Equipment Character Id: 14
+2018/12/13 6:41:56: Received Hotbar Character Id: 14
+2018/12/13 6:41:56: Received Inventory Character Id: 14
+2018/12/13 6:41:56: Received Spell Character Id: 14
+2018/12/13 6:41:56: Received Spell Buff Character Id: 14
+2018/12/13 6:41:56: Received Title Character Id: 14
+2018/12/13 6:41:56: Received Variable Character Id: 14
+2018/12/13 6:41:56: Received Warehouse Character Id: 14
+2018/12/13 6:41:56: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 6:42:05: Request account data: akaruz
+2018/12/13 6:42:05: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:42:05: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:42:06: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:43:07: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:43:07: Received Achievement Character Id: 14
+2018/12/13 6:43:07: Received Craft Character Id: 14
+2018/12/13 6:43:07: Received Currency Character Id: 14
+2018/12/13 6:43:07: Received Equipment Character Id: 14
+2018/12/13 6:43:07: Received Hotbar Character Id: 14
+2018/12/13 6:43:07: Received Inventory Character Id: 14
+2018/12/13 6:43:07: Received Spell Character Id: 14
+2018/12/13 6:43:07: Received Spell Buff Character Id: 14
+2018/12/13 6:43:07: Received Title Character Id: 14
+2018/12/13 6:43:08: Received Variable Character Id: 14
+2018/12/13 6:43:08: Received Warehouse Character Id: 14
+2018/12/13 6:43:08: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 6:43:35: Request account data: akaruz
+2018/12/13 6:43:35: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 6:43:35: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 6:43:36: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 6:44:18: Received Character Id: 14 Name: DragonicK
+2018/12/13 6:44:18: Received Achievement Character Id: 14
+2018/12/13 6:44:18: Received Craft Character Id: 14
+2018/12/13 6:44:18: Received Currency Character Id: 14
+2018/12/13 6:44:18: Received Equipment Character Id: 14
+2018/12/13 6:44:18: Received Hotbar Character Id: 14
+2018/12/13 6:44:18: Received Inventory Character Id: 14
+2018/12/13 6:44:18: Received Spell Character Id: 14
+2018/12/13 6:44:18: Received Spell Buff Character Id: 14
+2018/12/13 6:44:18: Received Title Character Id: 14
+2018/12/13 6:44:18: Received Variable Character Id: 14
+2018/12/13 6:44:18: Received Warehouse Character Id: 14
+2018/12/13 6:44:18: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:04:14: Request account data: akaruz
+2018/12/13 7:04:14: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:04:14: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:04:15: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:04:30: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:04:30: Received Achievement Character Id: 14
+2018/12/13 7:04:30: Received Craft Character Id: 14
+2018/12/13 7:04:30: Received Currency Character Id: 14
+2018/12/13 7:04:30: Received Equipment Character Id: 14
+2018/12/13 7:04:30: Received Hotbar Character Id: 14
+2018/12/13 7:04:30: Received Inventory Character Id: 14
+2018/12/13 7:04:30: Received Spell Character Id: 14
+2018/12/13 7:04:30: Received Spell Buff Character Id: 14
+2018/12/13 7:04:30: Received Title Character Id: 14
+2018/12/13 7:04:30: Received Variable Character Id: 14
+2018/12/13 7:04:30: Received Warehouse Character Id: 14
+2018/12/13 7:04:30: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:04:53: Request account data: akaruz
+2018/12/13 7:04:53: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:04:53: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:05:52: Request account data: akaruz
+2018/12/13 7:05:52: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:05:52: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:05:52: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:06:04: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:06:04: Received Achievement Character Id: 14
+2018/12/13 7:06:04: Received Craft Character Id: 14
+2018/12/13 7:06:04: Received Currency Character Id: 14
+2018/12/13 7:06:04: Received Equipment Character Id: 14
+2018/12/13 7:06:04: Received Hotbar Character Id: 14
+2018/12/13 7:06:04: Received Inventory Character Id: 14
+2018/12/13 7:06:04: Received Spell Character Id: 14
+2018/12/13 7:06:04: Received Spell Buff Character Id: 14
+2018/12/13 7:06:04: Received Title Character Id: 14
+2018/12/13 7:06:04: Received Variable Character Id: 14
+2018/12/13 7:06:04: Received Warehouse Character Id: 14
+2018/12/13 7:06:05: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:06:43: Request account data: akaruz
+2018/12/13 7:06:43: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:06:43: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:06:44: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:07:05: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:07:05: Received Achievement Character Id: 14
+2018/12/13 7:07:05: Received Craft Character Id: 14
+2018/12/13 7:07:05: Received Currency Character Id: 14
+2018/12/13 7:07:05: Received Equipment Character Id: 14
+2018/12/13 7:07:05: Received Hotbar Character Id: 14
+2018/12/13 7:07:05: Received Inventory Character Id: 14
+2018/12/13 7:07:05: Received Spell Character Id: 14
+2018/12/13 7:07:05: Received Spell Buff Character Id: 14
+2018/12/13 7:07:05: Received Title Character Id: 14
+2018/12/13 7:07:05: Received Variable Character Id: 14
+2018/12/13 7:07:05: Received Warehouse Character Id: 14
+2018/12/13 7:07:05: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:07:16: Request account data: akaruz
+2018/12/13 7:07:16: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:07:16: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:07:17: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:07:49: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:07:49: Received Achievement Character Id: 14
+2018/12/13 7:07:49: Received Craft Character Id: 14
+2018/12/13 7:07:49: Received Currency Character Id: 14
+2018/12/13 7:07:49: Received Equipment Character Id: 14
+2018/12/13 7:07:49: Received Hotbar Character Id: 14
+2018/12/13 7:07:49: Received Inventory Character Id: 14
+2018/12/13 7:07:49: Received Spell Character Id: 14
+2018/12/13 7:07:49: Received Spell Buff Character Id: 14
+2018/12/13 7:07:49: Received Title Character Id: 14
+2018/12/13 7:07:49: Received Variable Character Id: 14
+2018/12/13 7:07:49: Received Warehouse Character Id: 14
+2018/12/13 7:07:49: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:09:01: Request account data: akaruz
+2018/12/13 7:09:01: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:09:01: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:09:02: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:09:39: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:09:39: Received Achievement Character Id: 14
+2018/12/13 7:09:39: Received Craft Character Id: 14
+2018/12/13 7:09:39: Received Currency Character Id: 14
+2018/12/13 7:09:39: Received Equipment Character Id: 14
+2018/12/13 7:09:39: Received Hotbar Character Id: 14
+2018/12/13 7:09:39: Received Inventory Character Id: 14
+2018/12/13 7:09:39: Received Spell Character Id: 14
+2018/12/13 7:09:39: Received Spell Buff Character Id: 14
+2018/12/13 7:09:39: Received Title Character Id: 14
+2018/12/13 7:09:39: Received Variable Character Id: 14
+2018/12/13 7:09:39: Received Warehouse Character Id: 14
+2018/12/13 7:09:39: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:10:01: Request account data: akaruz
+2018/12/13 7:10:01: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:10:01: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:10:02: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:10:26: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:10:26: Received Achievement Character Id: 14
+2018/12/13 7:10:26: Received Craft Character Id: 14
+2018/12/13 7:10:26: Received Currency Character Id: 14
+2018/12/13 7:10:26: Received Equipment Character Id: 14
+2018/12/13 7:10:26: Received Hotbar Character Id: 14
+2018/12/13 7:10:26: Received Inventory Character Id: 14
+2018/12/13 7:10:26: Received Spell Character Id: 14
+2018/12/13 7:10:26: Received Spell Buff Character Id: 14
+2018/12/13 7:10:26: Received Title Character Id: 14
+2018/12/13 7:10:26: Received Variable Character Id: 14
+2018/12/13 7:10:26: Received Warehouse Character Id: 14
+2018/12/13 7:10:27: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 7:15:42: Request account data: akaruz
+2018/12/13 7:15:42: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 7:15:42: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 7:15:43: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 7:16:03: Received Character Id: 14 Name: DragonicK
+2018/12/13 7:16:03: Received Achievement Character Id: 14
+2018/12/13 7:16:03: Received Craft Character Id: 14
+2018/12/13 7:16:03: Received Currency Character Id: 14
+2018/12/13 7:16:03: Received Equipment Character Id: 14
+2018/12/13 7:16:03: Received Hotbar Character Id: 14
+2018/12/13 7:16:03: Received Inventory Character Id: 14
+2018/12/13 7:16:03: Received Spell Character Id: 14
+2018/12/13 7:16:03: Received Spell Buff Character Id: 14
+2018/12/13 7:16:03: Received Title Character Id: 14
+2018/12/13 7:16:03: Received Variable Character Id: 14
+2018/12/13 7:16:03: Received Warehouse Character Id: 14
+2018/12/13 7:16:04: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 21:27:51: Request account data: akaruz
+2018/12/13 21:27:51: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 21:27:51: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 21:27:52: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 21:28:20: Received Character Id: 14 Name: DragonicK
+2018/12/13 21:28:20: Received Achievement Character Id: 14
+2018/12/13 21:28:20: Received Craft Character Id: 14
+2018/12/13 21:28:20: Received Currency Character Id: 14
+2018/12/13 21:28:20: Received Equipment Character Id: 14
+2018/12/13 21:28:20: Received Hotbar Character Id: 14
+2018/12/13 21:28:20: Received Inventory Character Id: 14
+2018/12/13 21:28:20: Received Spell Character Id: 14
+2018/12/13 21:28:20: Received Spell Buff Character Id: 14
+2018/12/13 21:28:20: Received Title Character Id: 14
+2018/12/13 21:28:20: Received Variable Character Id: 14
+2018/12/13 21:28:20: Received Warehouse Character Id: 14
+2018/12/13 21:28:21: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 21:43:57: Request account data: akaruz
+2018/12/13 21:43:57: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 21:43:57: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 21:43:58: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 21:44:25: Received Character Id: 14 Name: DragonicK
+2018/12/13 21:44:25: Received Achievement Character Id: 14
+2018/12/13 21:44:25: Received Craft Character Id: 14
+2018/12/13 21:44:25: Received Currency Character Id: 14
+2018/12/13 21:44:25: Received Equipment Character Id: 14
+2018/12/13 21:44:25: Received Hotbar Character Id: 14
+2018/12/13 21:44:25: Received Inventory Character Id: 14
+2018/12/13 21:44:25: Received Spell Character Id: 14
+2018/12/13 21:44:25: Received Spell Buff Character Id: 14
+2018/12/13 21:44:25: Received Title Character Id: 14
+2018/12/13 21:44:25: Received Variable Character Id: 14
+2018/12/13 21:44:25: Received Warehouse Character Id: 14
+2018/12/13 21:44:26: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 22:32:55: Request account data: akaruz
+2018/12/13 22:32:55: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 22:32:55: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 22:32:56: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 22:33:43: Received Character Id: 14 Name: DragonicK
+2018/12/13 22:33:43: Received Achievement Character Id: 14
+2018/12/13 22:33:43: Received Craft Character Id: 14
+2018/12/13 22:33:43: Received Currency Character Id: 14
+2018/12/13 22:33:43: Received Equipment Character Id: 14
+2018/12/13 22:33:43: Received Hotbar Character Id: 14
+2018/12/13 22:33:43: Received Inventory Character Id: 14
+2018/12/13 22:33:43: Received Spell Character Id: 14
+2018/12/13 22:33:43: Received Spell Buff Character Id: 14
+2018/12/13 22:33:43: Received Title Character Id: 14
+2018/12/13 22:33:43: Received Variable Character Id: 14
+2018/12/13 22:33:43: Received Warehouse Character Id: 14
+2018/12/13 22:33:43: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 22:37:10: Request account data: akaruz
+2018/12/13 22:37:10: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 22:37:10: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 22:37:11: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 22:37:53: Received Character Id: 14 Name: DragonicK
+2018/12/13 22:37:53: Received Achievement Character Id: 14
+2018/12/13 22:37:53: Received Craft Character Id: 14
+2018/12/13 22:37:53: Received Currency Character Id: 14
+2018/12/13 22:37:53: Received Equipment Character Id: 14
+2018/12/13 22:37:53: Received Hotbar Character Id: 14
+2018/12/13 22:37:53: Received Inventory Character Id: 14
+2018/12/13 22:37:53: Received Spell Character Id: 14
+2018/12/13 22:37:53: Received Spell Buff Character Id: 14
+2018/12/13 22:37:53: Received Title Character Id: 14
+2018/12/13 22:37:53: Received Variable Character Id: 14
+2018/12/13 22:37:53: Received Warehouse Character Id: 14
+2018/12/13 22:37:54: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 22:40:12: Request account data: akaruz
+2018/12/13 22:40:12: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 22:40:12: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 22:40:13: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 22:41:02: Received Character Id: 14 Name: DragonicK
+2018/12/13 22:41:02: Received Achievement Character Id: 14
+2018/12/13 22:41:02: Received Craft Character Id: 14
+2018/12/13 22:41:02: Received Currency Character Id: 14
+2018/12/13 22:41:02: Received Equipment Character Id: 14
+2018/12/13 22:41:02: Received Hotbar Character Id: 14
+2018/12/13 22:41:02: Received Inventory Character Id: 14
+2018/12/13 22:41:02: Received Spell Character Id: 14
+2018/12/13 22:41:02: Received Spell Buff Character Id: 14
+2018/12/13 22:41:02: Received Title Character Id: 14
+2018/12/13 22:41:02: Received Variable Character Id: 14
+2018/12/13 22:41:02: Received Warehouse Character Id: 14
+2018/12/13 22:41:03: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 23:09:07: Request account data: akaruz
+2018/12/13 23:09:07: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 23:09:07: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 23:09:08: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 23:09:38: Received Character Id: 14 Name: DragonicK
+2018/12/13 23:09:38: Received Achievement Character Id: 14
+2018/12/13 23:09:38: Received Craft Character Id: 14
+2018/12/13 23:09:38: Received Currency Character Id: 14
+2018/12/13 23:09:38: Received Equipment Character Id: 14
+2018/12/13 23:09:38: Received Hotbar Character Id: 14
+2018/12/13 23:09:38: Received Inventory Character Id: 14
+2018/12/13 23:09:38: Received Spell Character Id: 14
+2018/12/13 23:09:38: Received Spell Buff Character Id: 14
+2018/12/13 23:09:38: Received Title Character Id: 14
+2018/12/13 23:09:38: Received Variable Character Id: 14
+2018/12/13 23:09:38: Received Warehouse Character Id: 14
+2018/12/13 23:09:39: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 23:09:45: Request account data: akaruz
+2018/12/13 23:09:45: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 23:09:45: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 23:09:46: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 23:10:39: Received Character Id: 14 Name: DragonicK
+2018/12/13 23:10:39: Received Achievement Character Id: 14
+2018/12/13 23:10:39: Received Craft Character Id: 14
+2018/12/13 23:10:39: Received Currency Character Id: 14
+2018/12/13 23:10:39: Received Equipment Character Id: 14
+2018/12/13 23:10:39: Received Hotbar Character Id: 14
+2018/12/13 23:10:39: Received Inventory Character Id: 14
+2018/12/13 23:10:39: Received Spell Character Id: 14
+2018/12/13 23:10:39: Received Spell Buff Character Id: 14
+2018/12/13 23:10:39: Received Title Character Id: 14
+2018/12/13 23:10:39: Received Variable Character Id: 14
+2018/12/13 23:10:39: Received Warehouse Character Id: 14
+2018/12/13 23:10:40: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 23:27:36: Request account data: akaruz
+2018/12/13 23:27:36: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 23:27:36: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 23:27:37: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 23:28:49: Received Character Id: 14 Name: DragonicK
+2018/12/13 23:28:49: Received Achievement Character Id: 14
+2018/12/13 23:28:49: Received Craft Character Id: 14
+2018/12/13 23:28:49: Received Currency Character Id: 14
+2018/12/13 23:28:49: Received Equipment Character Id: 14
+2018/12/13 23:28:49: Received Hotbar Character Id: 14
+2018/12/13 23:28:49: Received Inventory Character Id: 14
+2018/12/13 23:28:49: Received Spell Character Id: 14
+2018/12/13 23:28:50: Received Spell Buff Character Id: 14
+2018/12/13 23:28:50: Received Title Character Id: 14
+2018/12/13 23:28:50: Received Variable Character Id: 14
+2018/12/13 23:28:50: Received Warehouse Character Id: 14
+2018/12/13 23:28:50: Character Name DragonicK Character Id 14 is now saved
+2018/12/13 23:30:58: Request account data: akaruz
+2018/12/13 23:30:58: UserIndex: 1 Id: 1 Status: 0 UserGroup: 0
+2018/12/13 23:30:58: Account Id: 1 Character Id: 14 Name: DragonicK 
+2018/12/13 23:30:59: Request Data Character Id 14 Character Name DragonicK 
+2018/12/13 23:31:29: Received Character Id: 14 Name: DragonicK
+2018/12/13 23:31:29: Received Achievement Character Id: 14
+2018/12/13 23:31:29: Received Craft Character Id: 14
+2018/12/13 23:31:29: Received Currency Character Id: 14
+2018/12/13 23:31:29: Received Equipment Character Id: 14
+2018/12/13 23:31:29: Received Hotbar Character Id: 14
+2018/12/13 23:31:29: Received Inventory Character Id: 14
+2018/12/13 23:31:29: Received Spell Character Id: 14
+2018/12/13 23:31:29: Received Spell Buff Character Id: 14
+2018/12/13 23:31:29: Received Title Character Id: 14
+2018/12/13 23:31:29: Received Variable Character Id: 14
+2018/12/13 23:31:29: Received Warehouse Character Id: 14
+2018/12/13 23:31:29: Character Name DragonicK Character Id 14 is now saved

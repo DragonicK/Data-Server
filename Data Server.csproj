@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DD6EC27-783F-43C1-B092-916C156A90A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Data_Server</RootNamespace>
+    <AssemblyName>Data Server</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>server.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Communication\Constants.cs" />
+    <Compile Include="Communication\KeyGenerator.cs" />
+    <Compile Include="Database\Interface\DBError.cs" />
+    <Compile Include="Network\ServerPacket\SpPing.cs" />
+    <Compile Include="Util\LogType.cs" />
+    <Compile Include="Network\ClientPacket\CpCharacterLeftGame.cs" />
+    <Compile Include="Network\ClientPacket\CpRequestSaveCharacter.cs" />
+    <Compile Include="Server\CharacterManagement.cs" />
+    <Compile Include="Database\Interface\DBCommandType.cs" />
+    <Compile Include="Data\Achievement.cs" />
+    <Compile Include="Data\Craft.cs" />
+    <Compile Include="Data\Currency.cs" />
+    <Compile Include="Data\SpellBuff.cs" />
+    <Compile Include="Data\Title.cs" />
+    <Compile Include="Server\Expired.cs" />
+    <Compile Include="Data\Account.cs" />
+    <Compile Include="Data\Character.cs" />
+    <Compile Include="Data\Hotbar.cs" />
+    <Compile Include="Data\Inventory.cs" />
+    <Compile Include="Data\InventoryType.cs" />
+    <Compile Include="Data\Spell.cs" />
+    <Compile Include="Data\TempCharacter.cs" />
+    <Compile Include="Data\Variable.cs" />
+    <Compile Include="Communication\Global.cs" />
+    <Compile Include="Server\DataServer.cs" />
+    <Compile Include="Network\ByteBuffer.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterAchievement.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterCraft.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterCurrency.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterEquipment.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterHotbar.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterInventory.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterSpell.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterSpellBuff.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterTitle.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterVariable.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterWarehouse.cs" />
+    <Compile Include="Network\ClientPacket\CpRequestAccountData.cs" />
+    <Compile Include="Network\ClientPacket\CpRequestCharacterData.cs" />
+    <Compile Include="Network\ClientPacket\CpRequestDeleteChar.cs" />
+    <Compile Include="Network\ClientPacket\CpRequestNameExist.cs" />
+    <Compile Include="Network\ClientPacket\CpSaveCharacterData.cs" />
+    <Compile Include="Network\Connection.cs" />
+    <Compile Include="Network\Interface\IConnection.cs" />
+    <Compile Include="Network\Packet.cs" />
+    <Compile Include="Network\SendPacket.cs" />
+    <Compile Include="Network\Interface\IRecvPacket.cs" />
+    <Compile Include="Network\OpCode.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterAchievement.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterCraft.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterCurrency.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterData.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterEquipment.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterHotbar.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterId.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterInventory.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterList.cs" />
+    <Compile Include="Network\ServerPacket\SpAccountData.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterSpell.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterSpellBuff.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterTitle.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterVariable.cs" />
+    <Compile Include="Network\ServerPacket\SpCharacterWarehouse.cs" />
+    <Compile Include="Network\ServerPacket\SpExistName.cs" />
+    <Compile Include="Network\TcpServer.cs" />
+    <Compile Include="Data\AccountBan.cs" />
+    <Compile Include="Database\DBAccountBan.cs" />
+    <Compile Include="Database\DBCharacter.cs" />
+    <Compile Include="Database\MySQL\DBDataReader.cs" />
+    <Compile Include="Database\DBAccount.cs" />
+    <Compile Include="Database\MySQL\DBCommand.cs" />
+    <Compile Include="Database\MySQL\DBFactory.cs" />
+    <Compile Include="Database\Interface\IDBCommand.cs" />
+    <Compile Include="Database\Interface\IDBConnection.cs" />
+    <Compile Include="Database\MySQL\DBConnection.cs" />
+    <Compile Include="Communication\Configuration.cs" />
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Database\Interface\IDBFactory.cs" />
+    <Compile Include="Database\Interface\IDBReader.cs" />
+    <Compile Include="Util\Settings.cs" />
+    <Compile Include="Util\Log.cs" />
+    <Compile Include="Util\LogColor.cs" />
+    <Compile Include="Util\LogEventArgs.cs" />
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="server.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
