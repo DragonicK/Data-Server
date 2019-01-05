@@ -117,7 +117,7 @@ namespace Data_Server.Server {
         }
 
         private void ReceiveSocketData() {
-            for (int n = 1; n <= Connection.Connections.Count; n++) {
+            for (int n = 1; n <= Connection.HighIndex; n++) {
                 if (Connection.Connections.ContainsKey(n)) {
                     Connection.Connections[n].ReceiveData();
 
@@ -138,7 +138,7 @@ namespace Data_Server.Server {
         }
 
         private void PingConnections() {
-            for (var n = 1; n <= Connection.Connections.Count; n++) {
+            for (var n = 1; n <= Connection.HighIndex; n++) {
                 if (Connection.Connections.ContainsKey(n)) {
                     Connection.Connections[n].SendPing();
                 }

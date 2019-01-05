@@ -10,7 +10,7 @@ namespace Data_Server.Network {
         public static Dictionary<int, Connection> Connections { get; set; } = new Dictionary<int, Connection>();
 
         // Maior indice da lista de usuários.
-        private static int HighIndex { get; set; }
+        public static int HighIndex { get; set; }
 
         public string UniqueKey { get; set; }
         public bool Connected { get; set; }
@@ -143,26 +143,24 @@ namespace Data_Server.Network {
         public static void Remove(int index) {
             if (Connections.ContainsKey(index)) {
                 Connections.Remove(index);
-
-                HighIndex--;
             }
         }
 
         private static void Add(Connection connection) {
             var index = 0;
 
-            // Se todos os slots estiverem preenchidos, adiciona um novo slot.
-            if (Connections.Count == HighIndex) {
-                index = ++HighIndex;
-            }
-            else {
-                // Caso contrário, procura por um slot que não está sendo usado.
-                for (var i = 1; i <= Connections.Count; i++) {
+            if (Connections.Count < HighIndex) {
+                // Procura por um slot que não está sendo usado.
+                for (var i = 1; i <= HighIndex; i++) {
                     if (!Connections.ContainsKey(i)) {
                         index = i;
                         break;
                     }
                 }
+            }
+            // Caso contrário, adiciona um novo slot.
+            else {
+                index = ++HighIndex;
             }
 
             Connections.Add(index, connection);

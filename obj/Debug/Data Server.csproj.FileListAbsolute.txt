@@ -1,0 +1,10 @@
+C:\Users\DragonicK\Documents\GitHub\Data-Server\bin\Debug\Data Server.exe.config
+C:\Users\DragonicK\Documents\GitHub\Data-Server\bin\Debug\Data Server.exe
+C:\Users\DragonicK\Documents\GitHub\Data-Server\bin\Debug\Data Server.pdb
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data_Server.FrmMain.resources
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data_Server.Properties.Resources.resources
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data Server.csproj.GenerateResource.cache
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data Server.csproj.CoreCompileInputs.cache
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data Server.csproj.CopyComplete
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data Server.exe
+C:\Users\DragonicK\Documents\GitHub\Data-Server\obj\Debug\Data Server.pdb
