@@ -129,7 +129,7 @@ namespace Data_Server.Database {
 
                 var recipes = string.Empty;
                 for (var i = 0; i < craft[n].Recipes.Count; i++) {
-                    recipes = craft[n].Recipes[i] + ",";
+                    recipes += craft[n].Recipes[i] + ",";
                 }
 
                 // Remove a última vírgula.
