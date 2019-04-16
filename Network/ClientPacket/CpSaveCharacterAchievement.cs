@@ -22,7 +22,7 @@ namespace Data_Server.Network.ClientPacket {
                 achievement.Add(value);
             }
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
 
             AddCharacterAchievement(characterId, ref achievement);

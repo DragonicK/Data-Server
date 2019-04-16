@@ -9,7 +9,7 @@
         public void Send(IConnection connection) {
             ((Connection)connection).Send(msg, GetType().Name);
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
         }
     }

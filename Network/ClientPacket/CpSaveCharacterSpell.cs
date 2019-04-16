@@ -24,7 +24,7 @@ namespace Data_Server.Network.ClientPacket {
                 );
             }
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
 
             AddCharacterSpell(characterId, ref spell);

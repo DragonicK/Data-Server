@@ -25,7 +25,7 @@ namespace Data_Server.Network.ClientPacket {
                 );
             };
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
 
             AddCharacterEquipment(characterId, ref equipment);

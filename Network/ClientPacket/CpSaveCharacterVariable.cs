@@ -22,7 +22,7 @@ namespace Data_Server.Network.ClientPacket {
                 );
             }
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
 
             AddCharacterVariable(characterId, ref variable);

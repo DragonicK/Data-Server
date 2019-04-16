@@ -26,7 +26,7 @@ namespace Data_Server.Network.ClientPacket {
 
             ReadCharacterData(ref character, ref msg);
 
-            msg.Clear();
+            msg.Flush();
             msg = null;
 
             InsertCharacterData(index, ref character, connection);

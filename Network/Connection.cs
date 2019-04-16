@@ -102,7 +102,7 @@ namespace Data_Server.Network {
                     }
                 }
 
-                msg.Clear();
+                msg.Trim();
             }
         }
 
